@@ -19,3 +19,8 @@
 7. Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
  *  Það er meiri fullnæg leið til þess að uninstalla.
 8.  What is the default installation location for Packet Tracer?
+ *  C:\Program Files\Cisco Packet Tracer 7.3.0<
+9.  List the tabs found in the NEW VOLUME (I): Propertieswindow?
+ * Security, Previous Versions, Quota, General, Tools, Hardware and Sharing.
+10. Name a few applications listed in the Start Menu.
+ *  Calander, Alarms and clocks, Calculator
