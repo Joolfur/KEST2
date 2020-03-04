@@ -42,13 +42,13 @@
  *  Þegar það er rekið einhvern og þú villt halda vinnuni hanns.
 # Lab 11.2.5.8
 ## Manage virtual Memory
-* What is the current size of the virtual memory (paging file)?
+* What is the current size of the virtual memory (paging file)?     
   1408 MB
-* What Drive [Volume Label] contains the paging file? 
+* What Drive [Volume Label] contains the paging file?     
   Local Disk.
-* What is the recommended paging file size for all drives? 
+* What is the recommended paging file size for all drives?    
   1367 MB
-* Why would you ever change the default virtual memory page file settings in Windows? 
+* Why would you ever change the default virtual memory page file settings in Windows?    
   Ef forrit þarf meira Ram en það er að fá. Þá geturu neitt minnið á forritið.
 # Lab 11.2.6.2
 ## Use Device Manager
@@ -56,3 +56,11 @@
     Device information, you can use it to see what devices are connected
   * Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?  
   You could use "Add legacy hardware" under Action
+  * What additional information does Driver Details provide?  
+  Provider, File version, Copyright, Digital Signer.  
+  * What two options do you have for updating the driver? 
+  Search automatically for updated driver software og Browse my computer for driver software.   
+  * What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?   
+  Þetta er svo þú getur komist á gamalt version, þetta er grátt afþví þú ert ekki með gömul versions.
+  * What are the other available options?    
+  Disable Device, and Uninstall Device
