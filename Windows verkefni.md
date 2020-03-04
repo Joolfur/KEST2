@@ -52,7 +52,7 @@
   Ef forrit þarf meira Ram en það er að fá. Þá geturu neitt minnið á forritið.
 # Lab 11.2.6.2
 ## Use Device Manager
-  * What information is listed in the Device Manager window? Why would you use it?
+  * What information is listed in the Device Manager window? Why would you use it?   
     Device information, you can use it to see what devices are connected
-  * Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+  * Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?  
   You could use "Add legacy hardware" under Action
